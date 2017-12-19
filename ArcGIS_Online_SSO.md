@@ -20,3 +20,18 @@ Once you have gone through the Stanford SSO Login (dual authentication may be re
 * **You have 200 credits to start with**. Please use them judiciously. Everything uses credits on ArcGIS.com, but Bulk Geocoding is particularly expensive.
 **Bulk geocoding (placing more than 1000 addresses or placenames from a table on the map) SHOULD NOT be done through ArcGIS.com**, but should done via the [locator.stanford.edu](https://github.com/StanfordGeospatialCenter/SGC_Boilerplate/blob/master/Stanford_Locator_Service_Use.md) geocoding server. For more information, see [this guide](https://github.com/StanfordGeospatialCenter/SGC_Boilerplate/blob/master/Stanford_Locator_Service_Use.md).
 * If you have more than 100k records to geocode, please [contact Stanford Geospatial Center Staff](mailto:davidmed@stanford.edu) about you needs.
+
+### Learn to Use ArcGIS Desktop or ArcGIS Pro
+
+ArcGIS Online is a fantastic online mapping platform for most users, but it's just a part of a well-integrated ecosystem of GIS Software. Both ArcGIS Desktop and ArcGIS Pro are well integrated with ArcGIS Online and allow seamless publishing of many resources, directly from the desktop software.
+
+As noted, many tasks (including many analysis tools) consume credits in the ArcGIS online platform. The cost of many of the analysis tools in ArcGIS.com can be avoided by using ArcGIS Desktop or ArcGIS Pro as your primary analysis platforms and ArcGIS.com as your webmap distribution platform!
+
+Creating tiled map services from georeferenced map images can be costly in ArcGIS.com, as well. You can create [Tile Packages](https://blogs.esri.com/esri/arcgis/2016/07/11/tile-packages-hosted-tile-layers/) in ArcGIS Desktop or ArcGIS Pro, upload them to ArcGIS Online and serve them as tiled map services for very few credits.
+
+### Move Your Content **BEFORE** You Leave Stanford!
+
+You can use the ArcGIS Online Assistant to move your content from stanford.maps.arcgis.com to your own Developer Account, but you need to do it before your  SUNetID is deactivated.
+
+* Create an [ArcGIS Developer account](https://developers.arcgis.com/sign-up), which includes an one-person ArcGIS Online for Organizations account.
+* Go to https://ago-assistant.esri.com/ and use the "I Want To... Copy Items..." tool to transfer your items from your Stanford account to your Developer account.
