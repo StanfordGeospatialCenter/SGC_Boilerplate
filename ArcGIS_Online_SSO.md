@@ -15,5 +15,8 @@ Once you have gone through the Stanford SSO Login (dual authentication may be re
 ## Getting Started with ArcGIS Online
 
 ### A Few things to note:
-* **You have 200 credits to start with**. Please use them judiciously. Bulk geocoding (placing more than 1000 addresses or placenames from a table on the map) SHOULD NOT be done through ArcGIS.com, but should done via the locator.stanford.edu geocoding server. For more information, see ![this guide]().
-*
+
+### Don't Do Bulk Geocoding on ArcGIS.com
+* **You have 200 credits to start with**. Please use them judiciously. Everything uses credits on ArcGIS.com, but Bulk Geocoding is particularly expensive.
+**Bulk geocoding (placing more than 1000 addresses or placenames from a table on the map) SHOULD NOT be done through ArcGIS.com**, but should done via the [locator.stanford.edu](https://github.com/StanfordGeospatialCenter/SGC_Boilerplate/blob/master/Stanford_Locator_Service_Use.md) geocoding server. For more information, see [this guide](https://github.com/StanfordGeospatialCenter/SGC_Boilerplate/blob/master/Stanford_Locator_Service_Use.md).
+* If you have more than 100k records to geocode, please [contact Stanford Geospatial Center Staff](mailto:davidmed@stanford.edu) about you needs.
