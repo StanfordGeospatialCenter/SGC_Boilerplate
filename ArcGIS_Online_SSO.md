@@ -14,6 +14,15 @@ Once you have gone through the Stanford SSO Login (dual authentication may be re
 
 ## Getting Started with ArcGIS Online
 
+### Tutorials
+
+You'll find that many of the Stanford Geospatial Center's workshops will make increasing use of ArcGIS Online for web mapping and field data collection applications. We're developing new materials all the time, so go to gis.stanford.edu to find out when the next workshops will be offered.
+
+In the meantime, Esri is a juggernaut of online tutorial creation. Here are a few of the tutorials we have found most useful for new users:
+
+* [Getting Started with ArcGIS Online](http://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm) - http://doc.arcgis.com/en/arcgis-online/get-started/get-started.htm
+* [Preparing and Deploying Your Data for Use in Collector for ArcGIS using ArcGIS Desktop and ArcGIS Online](http://doc.arcgis.com/en/collector/android/create-maps/prepare-data-desktop.htm) - http://doc.arcgis.com/en/collector/android/create-maps/prepare-data-desktop.htm
+
 ### A Few things to note:
 
 ### Don't Do Bulk Geocoding on ArcGIS.com
