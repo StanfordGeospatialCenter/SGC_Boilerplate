@@ -17,4 +17,9 @@ To create a CARTO.com user on our enterprise account:
 
 ### Getting Started with CARTO.com
 
-CARTO has a great set of guides and tutorials for you at [https://carto.com/learn/guides/](https://carto.com/learn/guides/)
+CARTO has a great set of guides and tutorials for you at:
+[https://carto.com/learn/guides/](https://carto.com/learn/guides/)
+
+As well as Documentation on CARTO's various APIs, SDKs and Libraries:
+
+[https://carto.com/docs/](https://carto.com/docs/)
