@@ -1,6 +1,6 @@
 # Using Stanford's locator.stanford.edu Geocoding Service
 
-Stanford Geospatial Center maintain's an ArcGIS Server-based geocoding service for research and teaching use. This service is meant to be used for bulk geocoding of thousands to millions of placenames and/or addresses in North America.
+Stanford Geospatial Center maintains an ArcGIS Server-based geocoding service for research and teaching use. This service is meant to be used for bulk geocoding of thousands to millions of placenames and/or addresses in North America.
 
 ### To access the Address Locator services:
 
