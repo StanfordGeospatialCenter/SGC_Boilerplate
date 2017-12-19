@@ -14,7 +14,16 @@ Stanford Geospatial Center maintains an ArcGIS Server-based geocoding service fo
 
 You should then be able to use the various Address Locator Services for bulk geocoding in ArcGIS.
 
+## What's Currently Available on locator.stanford.edu
+
 The address locators inside the geocode folder include a Composite (capable of street addresses and postal codes) service for North America and separate services for U.S. Street Addresses and Postal Codes.
 
 The address locators in the Rio folder include Address Locators built by [The Spatial History Project](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/index.php) at Stanford's [Center for Spatial and Textual Analysis (CESTA)](https://cesta.stanford.edu/). For more information about these geocoding services, see the Spatial History Project's [Rio de Janeiro Historical Address Locator](http://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=123&project_id=999) page.
+
+### Are You an R User?
+
+Stanford Libaray's Claudia Engel maintains a repo with scripts for using the Stanford Geocoding Service in R. Find them here: [https://github.com/cengel/ArcGIS_geocoding](https://github.com/cengel/ArcGIS_geocoding)
+
+### For More Information
+
 For more information about the Geocoding Process in ArcGIS, see [Esri's What is Geocoding? Guide](http://desktop.arcgis.com/en/desktop/latest/guide-books/geocoding/what-is-geocoding.htm).
