@@ -34,13 +34,19 @@ In the meantime, Esri is a juggernaut of online tutorial creation. Here are a fe
 
 ArcGIS Online is a fantastic online mapping platform for most users, but it's just a part of a well-integrated ecosystem of GIS Software. Both ArcGIS Desktop and ArcGIS Pro are well integrated with ArcGIS Online and allow seamless publishing of many resources, directly from the desktop software.
 
-As noted, many tasks (including many analysis tools) consume credits in the ArcGIS online platform. The cost of many of the analysis tools in ArcGIS.com can be avoided by using ArcGIS Desktop or ArcGIS Pro as your primary analysis platforms and ArcGIS.com as your webmap distribution platform!
+As noted, many tasks (including many analysis tools) consume credits in the ArcGIS online platform. The cost of many of the analysis tools in ArcGIS.com can be avoided by using ArcGIS Desktop or ArcGIS Pro as your primary analysis platforms and ArcGIS.com as your web map distribution platform!
 
 Creating tiled map services from georeferenced map images can be costly in ArcGIS.com, as well. You can create [Tile Packages](https://blogs.esri.com/esri/arcgis/2016/07/11/tile-packages-hosted-tile-layers/) in ArcGIS Desktop or ArcGIS Pro, upload them to ArcGIS Online and serve them as tiled map services for very few credits.
+
+If you are interested in learning to use ArcGIS Desktop, [please sign up for our Listserv](https://mailman.stanford.edu/mailman/listinfo/stanfordgis), so that you will receive our workshop and events announcements. 
+
+We also make our workshop materials available for self-paced learning. Just go to [bit.ly/SGC_attendance](bit.ly/SGC_attendance), and fill out our Sign In form to gain access to the materials. You will find workshops for ArcGIS Desktop, QGIS, R and more. You can even come to the Stanford Geospatial Center's computer lab at Branner Earth Sciences Library, and do the tutorials with support from our GIS Assistants, close at hand to help you. 
+
+Esri provides a number of tutorials, built right into the Help system of ArcGIS Desktop. You can find them in the Online Help system, at [http://desktop.arcgis.com/en/arcmap/10.5/get-started/introduction/arcgis-tutorials.htm](http://desktop.arcgis.com/en/arcmap/10.5/get-started/introduction/arcgis-tutorials.htm)
 
 ### Move Your Content **BEFORE** You Leave Stanford!
 
 You can use the ArcGIS Online Assistant to move your content from stanford.maps.arcgis.com to your own Developer Account, but you need to do it before your  SUNetID is deactivated.
 
 * Create an [ArcGIS Developer account](https://developers.arcgis.com/sign-up), which includes an one-person ArcGIS Online for Organizations account.
-* Go to https://ago-assistant.esri.com/ and use the "I Want To... Copy Items..." tool to transfer your items from your Stanford account to your Developer account.
+* Go to [https://ago-assistant.esri.com/](https://ago-assistant.esri.com/) and use the "I Want To... Copy Items..." tool to transfer your items from your Stanford account to your Developer account.

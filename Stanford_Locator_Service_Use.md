@@ -22,7 +22,7 @@ The address locators in the Rio folder include Address Locators built by [The Sp
 
 ### Are You an R User?
 
-Stanford Libaray's Claudia Engel maintains a repo with scripts for using the Stanford Geocoding Service in R. Find them here: [https://github.com/cengel/ArcGIS_geocoding](https://github.com/cengel/ArcGIS_geocoding)
+Stanford Library's Claudia Engel maintains a repo with scripts for using the Stanford Geocoding Service in R. Find them here: [https://github.com/cengel/ArcGIS_geocoding](https://github.com/cengel/ArcGIS_geocoding)
 
 ### For More Information
 

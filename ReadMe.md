@@ -10,4 +10,4 @@ A place to drop instructions on accessing and using parts of the Stanford Geospa
 * Installing ArcGIS Desktop Using Our Installation Batch Files
 * Accessing SimplyAnalytics for analysis and download of U.S. Census and other data.
 * Accessing the Stanford Geospatial Center's Self-Paced GIS Tutorials
-* Using earthworks.stanford.edu WMS and WFS Data Services in your own webmap applications
+* Using earthworks.stanford.edu WMS and WFS Data Services in your own web applications
