@@ -7,7 +7,7 @@ For QGIS Desktop - [https://stanford.box.com/v/introarcgis](https://stanford.box
 For RStudio -  [https://stanford.box.com/v/introrstudio](https://stanford.box.com/v/introrstudio)  
 For ArcGIS Desktop - [https://stanford.box.com/v/introarcmap](https://stanford.box.com/v/introarcmap)  
 For ArcGIS Pro - [https://stanford.box.com/v/introarcpro](https://stanford.box.com/v/introarcpro)   
-[introgisarcmap.png]  
+
 This introductory session focuses upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the ArcGIS Desktop platform. Topics include:  
 
 * What is GIS?  
@@ -20,7 +20,7 @@ This introductory session focuses upon the fundamental concepts and skills neede
 ## Geoprocessing and basic analysis of spatial data   
 For ArcGIS Desktop - [https://stanford.box.com/v/arcgisgeoprocessing](https://stanford.box.com/v/arcgisgeoprocessing)  
 For QGIS Desktop - [https://stanford.box.com/v/qgisgeoprocessing](https://stanford.box.com/v/qgisgeoprocessing)   
-[johnsnow.png]   
+   
 This session builds upon the skills and concepts introduced in the "Introduction to GIS with ArcGIS Desktop" session and participants will be expected to attend that workshop, or have comparable experience with ArcGIS 10.2. Topics include:  
 
 * Use of Relates & Relationship Classes  
@@ -31,7 +31,7 @@ This session builds upon the skills and concepts introduced in the "Introduction
 
 ## Data creation & editing workflows with ArcGIS Desktop  
 For ArcGIS Desktop - [https://stanford.box.com/v/arcgisdatacreation](https://stanford.box.com/v/arcgisdatacreation)  
-[madagascar.png]  
+  
 This workshop serves as follow-on to the Introductory and Geoprocessing Skills workshops.   Some level of familiarity with ArcGIS is assumed.  In this exercise you will use the goal of producing a publication quality map of sugar plantations in Madagascar as the vehicle for introducing some of the more advanced skills necessary to have when working on extensive GIS projects. Topics include:  
 
 * Creation and management of File Geodatabases.  
@@ -48,7 +48,7 @@ This workshop serves as follow-on to the Introductory and Geoprocessing Skills w
 ## Raster! The 'Other' GIS data.  
 For ArcGIS Desktop - [https://stanford.box.com/v/arcgisraster](https://stanford.box.com/v/arcgisraster)   
 For ArcGIS Pro - [https://stanford.box.com/v/rasterarcpro](https://stanford.box.com/v/rasterarcpro)  
-[yalebowl.png]  
+  
 The Raster Data Model provides an effective means of characterizing spatially continuous phenomena, such as elevation, temperature, precipitation and other environmental and climatic characteristics. This workshop provides a targeted introduction to the tools available in ArcGIS for creating, managing and analyzing data in raster form. Topics include:   
 
 * Types of Raster Data  
