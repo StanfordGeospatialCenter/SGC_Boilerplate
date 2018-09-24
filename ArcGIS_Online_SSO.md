@@ -4,7 +4,7 @@ We've implemented Single Sign-On for ArcGIS.com! This means that you no longer n
 
 To get started making your own maps, go to ArcGIS.com , click on "Sign In" and click on the "ENTERPRISE LOGIN" button to begin the familiar Stanford Sign On...
 
-![Stanford ArcGIS.com Sign On Screen](./images/signon.png)
+![Stanford ArcGIS.com Sign On Screen](./images/signon1.png)
 
 Then, enter "stanford" in the space prompted, and click "CONTINUE."
 
