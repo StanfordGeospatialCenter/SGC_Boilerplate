@@ -7,7 +7,7 @@ Stanford Geospatial Center maintains an ArcGIS Server-based geocoding service fo
 * In ArcCatalog, or the Catalog Panel in ArcMap, expand the GIS Servers item
 * Double-click the Add ArcGIS Server item
 * Leave the default "Use GIS Services" option, click Next>
-* For the 'Server URL' use: http://locator.stanford.edu/arcgis
+* For the 'Server URL' use: https://locator.stanford.edu/arcgis
 * For 'User Name' use your **SUNetID** (prefixed with the 'WIN\' domain) as **WIN\SUNetID**
 * Enter the password associated with your SUNetID and check the option to Save Username/Password
 * Click Finish
