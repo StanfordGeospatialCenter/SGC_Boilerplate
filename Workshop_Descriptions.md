@@ -34,3 +34,47 @@ Read more about Google Earth Engine [here](https://developers.google.com/earth-e
 # ArcGIS Online 101: A quick-start to exploring spatial data using ArcGIS Online
 
 ![](./images/snowheader.png)  
+
+Date: Fri, January 22, 2021  
+Time: 1:30 PM – 3:00 PM PST  
+Venue: Zoom Workshop  
+
+**Details**:   
+This workshop aims to accomplish two things: Introduce participants to basic vocabulary, concepts and techniques for working with spatial data in research and introduce the interface and tools in ArcGIS Online, a web-based alternative to desktop GIS software. This introductory session will focus upon the fundamental concepts and skills needed to begin using ArcGIS Online for the exploration and analysis of spatial data.
+
+**Topics will include**:
+
+- How Webmaps work
+- The ArcGIS Online User Interface
+- Uploading data to AGO
+- Using Web Map services in AGO
+- Simple Analysis using spatial allocation and joins
+- Using ArcGIS Online to create data
+- Creating and sharing custom applications with ArcGIS Online
+
+GIS Resources: Stanford's ArcGIS Online Organization Login - https://stanford.maps.arcgis.com
+
+_____  
+
+# QGIS 101: An Introduction to Desktop GIS with QGIS
+
+![](./images/makeanewone.png)
+
+Date: Fri, January 22, 2021  
+Time: 1:30 PM – 3:00 PM PST  
+Venue: Zoom Workshop  
+
+Note: you MUST be a Stanford Affiliate to attend, valid SUnet ID required.
+This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the open source GIS package QGIS. Topics will include:
+What is GIS?
+Spatial Data Models and Formats
+Projections and Coordinate Systems
+Basic Data Management
+The QGIS User Interface
+Simple Analysis using Visualization
+
+This workshop will be held online. Participation will be via a short initial Zoom meeting followed by a self directed lab. Your instructor will be available via Zoom during the full workshop for help and questions.
+Please visit the workshop landing page linked below for full instructions and links:
+https://sites.google.com/stanford.edu/gis-online-workshops/intro-to-qgis
+
+-----
