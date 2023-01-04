@@ -3,6 +3,8 @@
 
 ## Workshop Instructor(s)
 
+## Workshop Contact Email
+
 ## Workshop Short Description
 _record a tweet length description, here_
 

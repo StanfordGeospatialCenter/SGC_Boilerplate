@@ -3,7 +3,7 @@
 
 QGIS 101: The basics of geoprocessing and spatial data carpentry, with QGIS  
 
-## Workshop Instructor(s)
+## Workshop Primary Instructor(s)
 
 Stace Maples
 
@@ -19,13 +19,25 @@ Introducing participants to basic vocabulary, concepts and techniques for workin
 ## Workshop Full Description
 _record a full description, including Outcomes, Prerequisites, etc..._
 
-## Workshop Date
+This workshop aims to accomplish two things: Introduce participants to basic vocabulary, concepts and techniques for working with spatial data in research and introduce the interface and tools in QGIS, a free & open source desktop GIS software. This introductory session will focus upon the fundamental concepts and skills needed to begin using Geographic Information Systems software for the exploration and analysis of spatial data using the QGIS platform.
 
-## Workshop Start Time
+Topics will include:
 
-## Workshop End Time
+* What is GIS?
+* Spatial Data Models and Formats
+* Projections and Coordinate Systems
+* Basic Data Management
+* The QGIS User Interface
+* Simple Analysis using Visualization
+* Creating Spatial Datasets
+* Proximity and Overlay Analysis
+* Hotspot Mapping
+* Cartographic Presentation & Export
 
-## Repeating
+
+## Workshop Required Time
+
+3 hours
 
 ## Mode 
 _In-person, Virtual or Hybrid_
@@ -47,6 +59,8 @@ None
 
 ## Workshop Audience
 _General Public, Stanford Community, Etc..._
+
+Stanford Community
 
 ## Departments
 
@@ -79,5 +93,5 @@ _Best Practices_
    * If you must use text-heavy photos, aim for the text to be as close to the center of the image as possible.
    * Aim for photos without too much white space for a better end-look
 
-   
+
 ![](images/QGIS101Header.png)  
