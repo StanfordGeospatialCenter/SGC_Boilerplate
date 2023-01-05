@@ -69,6 +69,8 @@ Stanford Community
 ## Preparation Document
 _URL to pre-workshop preparation documentation  (software installations, etc...)_
 
+Preparation: Please arrive with your own laptop, with the current Pre-Release (PR) version of QGIS installed for your operating system. 
+
 ## Workshop Doc/Self-Paced Version Link
 _URL to Self-Paced Materials, if available_
 
